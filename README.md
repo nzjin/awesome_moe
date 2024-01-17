@@ -9,7 +9,7 @@
 - [2023/05] Mixture-of-Experts Meets Instruction Tuning: A Winning Combination for Large Language Models [[paper](https://arxiv.org/abs/2305.14705)]
 - [2023/03] PanGu-Σ: Towards Trillion Parameter Language Model with Sparse Heterogeneous Computing. arXiv 2023. [[paper](https://arxiv.org/abs/2303.10845)]
 - [2022] Eliciting and Understanding Cross-Task Skills with Task-Level Mixture-of-Experts. Findings of EMNLP 2022. [[paper](https://aclanthology.org/2022.findings-emnlp.189.pdf)]
-- [2022/04] Sparsely activated mixture-of-experts are robust multi-task learners. [[paper]()]
+- [2022/04] Sparsely activated mixture-of-experts are robust multi-task learners. [[paper](https://arxiv.org/pdf/2204.07689)]
 - [2022/01] GLaM: Efficient Scaling of Language Models with Mixture-of-Experts. ICML 2022. [[paper](https://arxiv.org/abs/2112.06905)]
 - [2022/01] Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity[[paper](https://jmlr.org/papers/volume23/21-0998/21-0998.pdf)]
 - [2021] Beyond Distillation: Task-level Mixture-of-Experts for Efficient Inference. Findings of EMNLP 2021. [[paper](https://arxiv.org/abs/2110.03742)]
