@@ -17,7 +17,10 @@
 - [2022/04] Sparsely activated mixture-of-experts are robust multi-task learners. [[paper](https://arxiv.org/pdf/2204.07689)]
 - [2022/01] GLaM: Efficient Scaling of Language Models with Mixture-of-Experts. ICML 2022. [[paper](https://arxiv.org/abs/2112.06905)]
 - [2022/01] Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity[[paper](https://jmlr.org/papers/volume23/21-0998/21-0998.pdf)]
+- [2022] Spatial Mixture-of-Experts. [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/4c5e2bcbf21bdf40d75fddad0bd43dc9-Paper-Conference.pdf)]
 - [2021/08] DEMix Layers: Disentangling Domains for Modular Language Modeling. [[paper](https://arxiv.org/abs/2108.05036)]
 - [2021] Beyond Distillation: Task-level Mixture-of-Experts for Efficient Inference. Findings of EMNLP 2021. [[paper](https://arxiv.org/abs/2110.03742)]
+- [2021] Scaling vision with sparse mixture of experts. [[paper](https://proceedings.neurips.cc/paper/2021/file/48237d9f2dea8c74c2a72126cf63d933-Paper.pdf)]
 - [2020/06] GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding [[paper](https://arxiv.org/abs/2006.16668)]
+- [2018/01] Practical and theoretical aspects of mixture‐of‐experts modeling: An overview 
 - [2017/01] Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer [[paper](https://arxiv.org/abs/1701.06538)]
