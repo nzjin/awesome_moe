@@ -2,6 +2,7 @@
 :rocket: The collections of MOE (Mixture Of Expert) papers, codes and tools, etc.
 
 # Paper Lists
+- [2024/03] Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM [[paper](https://arxiv.org/pdf/2403.07816.pdf)]
 - [2024/01] Chinese-Mixtral-8x7B. [[github](https://github.com/HIT-SCIR/Chinese-Mixtral-8x7B)]
 - [2024/01] MoLE: Mixture of LoRA Experts [[paper](https://openreview.net/forum?id=uWvKBCYh4S)]
 - [2024/01] Sparse MoE with Language Guided Routing for Multilingual Machine Translation. [[paper](https://openreview.net/pdf?id=ySS7hH1smL)][[code](https://openreview.net/forum?id=ySS7hH1smL)]
